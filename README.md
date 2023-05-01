@@ -12,7 +12,7 @@ This is a simple Discord chat bot built using discord.js and the chatgpt-3.5-tur
 
 ```powershell
 
-git clone https://github.com/notunderctrl/gpt-3.5-chat-bot.git .
+git clone https://github.com/QUTYPIE/CHATGPT-3.5-TURBO.git .
 
 ```
 
